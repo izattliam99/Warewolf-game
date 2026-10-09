@@ -1,0 +1,10 @@
+{
+  "name": "werewolf-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private role-dealing party game for mobile browsers",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
